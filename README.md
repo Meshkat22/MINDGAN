@@ -31,7 +31,7 @@ The framework integrates:
 Evaluated on **BCI Competition IV** datasets:
 
 - **2A (4‑class MI):** 81.17% mean accuracy  
-- **2B (binary MI):** 86.87% mean accuracy  
+- **2B (binary MI):** 87.16% mean accuracy  
 - GAN‑generated EEG achieves **r = 0.9923** spectral fidelity  
 - Augmentation benefit strongly depends on per‑class data availability  
 
